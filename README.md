@@ -1,8 +1,8 @@
 # Hi, I'm Gabriel Dias 👋
 
 ## 👨‍💻 About Me 
-I'm a Frontend Developer based in Goiânia-Goiás, Brazil
-This is my profile. I am working to improve it my hard skills. Below I leave some of the ideas about me
+I'm a Frontend Developer based in Goiânia-Goiás, Brazil.
+This is my profile. I am working to improve it my hard skills. Below I leave some of the ideas about me:
 
 - 🔭 I’m currently working on built my career
 - 🌱 I have plans to learn Flutter, Node.JS, React and React Native
